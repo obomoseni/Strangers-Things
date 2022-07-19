@@ -8,6 +8,3 @@ export { default as Logout } from "./Logout";
 export { default as Navbar } from "./Navbar";
 export { default as Title } from "./Title";
 
-
-
-// every single component file will be exported here
